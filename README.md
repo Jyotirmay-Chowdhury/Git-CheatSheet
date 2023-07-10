@@ -3,7 +3,7 @@ Git CheatSheet
 
 
 # Git Get Started
-Git New Files
+Git New Files,
 Git Staging Environment
 Git Commit
 Git Help
