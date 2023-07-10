@@ -3,54 +3,54 @@ Git CheatSheet
 
 
 # Git Get Started
-Git New Files
+1) Git New Files
 
-Git Staging Environment
+2) Git Staging Environment
 
-Git Commit
+3) Git Commit
 
-Git Help
+4) Git Help
 
-Git Branch
+5) Git Branch
 
-Git Branch Merge
+6) Git Branch Merge
 
 # Git and GitHub
-GitHub Get Started
+1)GitHub Get Started
 
-GitHub Edit Code
+2)GitHub Edit Code
 
-Pull from GitHub
+3)Pull from GitHub
 
-Push to GitHub
+4)Push to GitHub
 
-GitHub Branch
+5)GitHub Branch
 
-Pull Branch from GitHub
+6)Pull Branch from GitHub
 
-Push Branch to GitHub
+7)Push Branch to GitHub
 
-GitHub Flow
+8)GitHub Flow
 
-GitHub Pages
+9)GitHub Pages
 
 # Git Contribute
-GitHub Fork
+1)GitHub Fork
 
-Git Clone from GitHub
+2)Git Clone from GitHub
 
-GitHub Send Pull Request
+3)GitHub Send Pull Request
 
 # Git Advanced
-Git .gitignore
+1)Git .gitignore
 
-Git Security SSH
+2)Git Security SSH
 
-GitHub Add SSH
+3)GitHub Add SSH
 
 # Git Undo
-Git Revert
+1)Git Revert
 
-Git Reset
+2)Git Reset
 
-Git Amend
+3)Git Amend
