@@ -16,41 +16,41 @@ Git CheatSheet
 6) Git Branch Merge
 
 # Git and GitHub
-1)GitHub Get Started
+1) GitHub Get Started
 
-2)GitHub Edit Code
+2) GitHub Edit Code
 
-3)Pull from GitHub
+3) Pull from GitHub
 
-4)Push to GitHub
+4) Push to GitHub
 
-5)GitHub Branch
+5) GitHub Branch
 
-6)Pull Branch from GitHub
+6) Pull Branch from GitHub
 
-7)Push Branch to GitHub
+7) Push Branch to GitHub
 
-8)GitHub Flow
+8) GitHub Flow
 
-9)GitHub Pages
+9) GitHub Pages
 
 # Git Contribute
-1)GitHub Fork
+1) GitHub Fork
 
-2)Git Clone from GitHub
+2) Git Clone from GitHub
 
-3)GitHub Send Pull Request
+3) GitHub Send Pull Request
 
 # Git Advanced
-1)Git .gitignore
+1) Git .gitignore
 
-2)Git Security SSH
+2) Git Security SSH
 
-3)GitHub Add SSH
+3) GitHub Add SSH
 
 # Git Undo
-1)Git Revert
+1) Git Revert
 
-2)Git Reset
+2) Git Reset
 
-3)Git Amend
+3) Git Amend
