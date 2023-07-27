@@ -46,8 +46,8 @@
 To check the Version of the Git use this command in cmd or Terminal.
 
 
----> git --version
-Output---> git version 2.30.2.windows.1
+---> git   --version
+<br>Output---> git version 2.30.2.windows.1
 
 
 To Configure Git
